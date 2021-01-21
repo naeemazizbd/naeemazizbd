@@ -16,7 +16,7 @@
 - 📫 How to reach me:
 - 🌱 Languages and Tools: 
 
-    <div>
+ 
        <h2>Languages & Tools:</h2>
 
 
@@ -27,7 +27,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://i.postimg.cc/K8cfNzjX/download-1.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
-    </div>
 
 
 ⭐️ From [Naeem Aziz]
