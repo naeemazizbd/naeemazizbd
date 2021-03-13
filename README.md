@@ -9,7 +9,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=naeem&show=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=naeemazizbd&show=true&hide_border=true">
 
 ## 🧐 About
 
