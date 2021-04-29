@@ -30,7 +30,8 @@
 <img align="left" alt="GitHub" width="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
 
 <br />
-<img width="550px" alt="Naeem Aziz Chowdhury's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=naeemazizbd&show_icons=true"/> [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemazizbd&card_width=550)](https://github.com/naeemazizbd)
+<img width="550px" alt="Naeem Aziz Chowdhury's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=naeemazizbd&show_icons=true"/> 
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemazizbd&card_width=550)](https://github.com/naeemazizbd)
 <br/>
 
 
