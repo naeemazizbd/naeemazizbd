@@ -31,9 +31,9 @@
 
 <br />
 <br/>
-<img width="800px" alt="Naeem Aziz Chowdhury's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mehedihasankhairul&show_icons=true"/>
+<img width="800px" alt="Naeem Aziz Chowdhury's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=naeemazizbd&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemazizbd&card_width="800px")](https://github.com/naeemazizbd)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemazizbd&card_width=800)](https://github.com/naeemazizbd)
 
 <br/>
 
