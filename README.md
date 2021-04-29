@@ -29,20 +29,9 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
 
-
 <br />
-
-
-<br />
-<br />
-<img width="550px" alt="Naeem Aziz Chowdhury's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=naeemazizbd&show_icons=true"/>
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasankhairul&card_width=550)](https://github.com/naeemazizbd)
+<img width="550px" alt="Naeem Aziz Chowdhury's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=naeemazizbd&show_icons=true"/> [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemazizbd&card_width=550)](https://github.com/naeemazizbd)
 <br/>
-
-
-
-
 
 
 [website]: (https://www.facebook.com/naeemazizchowdhory/)
